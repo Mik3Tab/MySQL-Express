@@ -1,5 +1,7 @@
     Ejercicios SQL con Express
 
+    __Estructura MVC aplicada__
+
   _Ejercicio 1_
 Crea las siguientes tablas usando Express y MySQL como hemos visto en clase:
 Tabla Products ✅
