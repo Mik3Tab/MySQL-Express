@@ -46,14 +46,14 @@ __Ejercicio 1__
   
 * Crea un endpoint donde puedas eliminar un producto por su id ✅
 
-## Getting Started 🐱‍🏍
+## Getting started -> Installing 🐱‍👤
 
 Clone this repository `https://github.com/Mik3Tab/MySQL-Express.git`
 Install the dependencies npm install
 Create a new repo on GitHub: https://github.com/new
 Update the remote to point to your GitHub repository: git remote set-url origin
 
-### Installing 🐱‍👤
+### 
 
 * How/where to download your program
 
