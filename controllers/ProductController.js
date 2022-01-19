@@ -1,12 +1,10 @@
 const db = require('../config/database');
-
 const ProductController = {
     SelectProductId(req,res){
         let sql =`SELECT * FROM expressdb.productos WHERE idProducto = ${req.params.id}`;
         db.query(sql,(err,result)=>{
           if(err) throw err
-          console.log(result)
-          res.send(`Producto con id ${req.params.id} seleccionado`);
+          res.send(result);
         })
       },
       SelectProductName(req,res){
