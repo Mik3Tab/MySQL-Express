@@ -1,6 +1,6 @@
 # MySQL & Express Database 
 
-Project made with MySQL and Node.js with Express. Here is a quick & visual example of this exercise.
+Proyecto hecho con MySQL y NodeJS con Express. Aquí tienes un ejemplo visual del ejercicio.
 
 ![image](https://user-images.githubusercontent.com/93273286/150165653-409bead2-51d3-42f8-a663-b9a40924e703.png)
 
@@ -48,19 +48,20 @@ __Ejercicio 1__
 
 ## Getting started -> Installing 🐱‍👤
 
-Clone this repository `https://github.com/Mik3Tab/MySQL-Express.git`
-Install the dependencies npm install
-Create a new repo on GitHub: https://github.com/new
-Update the remote to point to your GitHub repository: git remote set-url origin
+Clona este repositorio `https://github.com/Mik3Tab/MySQL-Express.git`
 
-### 
+Instalar las dependencias de Nodemon
 
-* How/where to download your program
+Crea una nueva repo en github: https://github.com/new
 
-### Executing program
+Actualiza la repo remota para que apunte a tu repositorio: git remote set-url origin 
 
-* How to run the program
-* Step-by-step bullets
+`Necesitarás herramientas como MySQL Workbench y Postman para realizar este ejercicio.
+
+### Ejecutar el programa
+
+* Cómo arrancar el programa
+* Paso a paso
 ```
     -> Access the main folder through console
     -> Run npm run index
